@@ -16,7 +16,7 @@ Apple Jacks
 >>> print random.ID
 38
 >>> libxkcd.net.download_comic(random)
-\#38, Apple Jacks.
+38, Apple Jacks.
 True
 ```
 
