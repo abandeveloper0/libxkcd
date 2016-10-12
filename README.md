@@ -9,7 +9,7 @@ libxkcd is an API wrapper to fetch, search or download [xkcd](http://www.xkcd.co
 
 ## Sample code : 
 ```python
->>> import libxkcd.comic, libxkcd.net
+>>> import libxkcd.net
 >>> random = libxkcd.comic.random_comic()
 >>> print random.Title
 Apple Jacks
